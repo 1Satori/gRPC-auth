@@ -37,7 +37,6 @@ func main() {
 
 	log.Info("application stopped")
 
-	// TODO: запустить gRPC сервер приложения
 }
 
 func setupLogger(env string) *slog.Logger {
