@@ -2,7 +2,6 @@ package jwt
 
 import (
 	"gRPC_auth/internal/domain/models"
-	"github.com/golang-jwt/jwt/v5"
 	"time"
 )
 
